@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/cucumber/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/cucumber-junit-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/cucumber-reporting-2.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/cucumber/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
