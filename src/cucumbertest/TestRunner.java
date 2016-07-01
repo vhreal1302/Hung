@@ -12,9 +12,9 @@ import org.junit.runner.RunWith;
 		monochrome = true,
 		plugin = {"html:target/cucumber-html-report",
 		"json:target/cucumber-json-report.json"},
-		features = "Feature",
+		features = "features",
 		//features = "Feature\\Frame.feature",
-		glue = {"stepDefinition"}	
+		glue = {"definition"}	
 )
 
 public class TestRunner {
