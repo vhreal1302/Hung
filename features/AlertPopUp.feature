@@ -1,4 +1,4 @@
-@popup
+
 Feature: Behavior on Dialogs and Alerts
 
   Scenario: Answer the prompt box
