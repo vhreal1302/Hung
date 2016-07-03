@@ -1,5 +1,6 @@
 //Author: Nguyen Van Hung
 //Tested on Firefox 44.0.1
+//Today is sunday
 package cucumbertest;
 
 import cucumber.api.junit.Cucumber;
