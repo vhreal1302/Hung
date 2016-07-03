@@ -1,6 +1,7 @@
 //Author: Nguyen Van Hung
 //Tested on Firefox 44.0.1
 //Today is sunday
+//Now I know how to use Egit
 package cucumbertest;
 
 import cucumber.api.junit.Cucumber;
