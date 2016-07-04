@@ -14,8 +14,8 @@ import org.junit.runner.RunWith;
 		monochrome = true,
 		plugin = {"html:target/cucumber-html-report",
 		"json:target/cucumber-json-report.json"},
-		features = "features",
-		//features = "features\\Frame.feature",
+		//features = "features",
+		features = "features\\AlertPopUp.feature",
 		glue = {"definition"}	
 )
 
