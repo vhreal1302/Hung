@@ -1,0 +1,121 @@
+assert_that_text_on_popup_box_is(1)
+    css=button, Please enter your name
+assert_that_the_attribute_of_does_not_have(1)
+    src, xpath=//div[2]/a/img, bnr_nowAccepting.gif
+assert_that_the_attribute_of_has(1)
+    src, xpath=//div[2]/a/img, bnr_nowAccepting_150x60.gif
+assert_that_the_attribute_of_is(5)
+    alt, xpath=//div[2]/a/img, Additional Options
+    title, xpath=//div[2]/a/img, Additional Options
+    src, xpath=//div[2]/a/img, https://www.paypalobjects.com/en_US/i/bnr/bnr_nowAccepting_150x60.gif
+    value, name=country, Norway
+    value, name=country, VIETNAM
+assert_that_the_attribute_of_is_not(1)
+    src, xpath=//div[2]/a/img, https://www.paypalobjects.com
+assert_that_the_element_is_absent(1)
+    xpath=//input[@type='password']
+assert_that_the_element_is_disabled(1)
+    name=lname
+assert_that_the_element_is_enabled(1)
+    name=fname
+assert_that_the_element_is_hidden(1)
+    name=country
+assert_that_the_element_is_present(1)
+    xpath=//input[@type='submit']
+assert_that_the_element_is_visible(1)
+    name=country
+assert_that_the_page_title_does_not_have(1)
+    Cucun
+assert_that_the_page_title_has(1)
+    Cu
+assert_that_the_page_title_is(1)
+    Cucumber
+assert_that_the_page_title_is_not(1)
+    Serenity BDD
+assert_that_the_text_element_does_not_have(1)
+    css=h1[title='Cucumber'], Simples
+assert_that_the_text_element_has(1)
+    css=h1[title='Cucumber'], collaboration
+assert_that_the_text_element_is(4)
+    id=demo, Hello Baymax! How are you today?
+    id=demo, You pressed Cancel!
+    id=demo, You pressed OK!
+    css=h1[title='Cucumber'], Simple, human collaboration
+assert_that_the_text_element_is_not(1)
+    css=h1[title='Cucumber'], human collaboration
+assert_that_the_text_is_not_present(1)
+    Write a step definition in Java
+assert_that_the_text_is_present(1)
+    Describe behaviour in plain text
+assert_that_the_url_is(1)
+    https://cucumber.io/
+assert_that_the_url_is_not(1)
+    https://cucumber.com/
+capture_image_of_element_and_save_as(1)
+    name=country, norway.png
+change_attribute_of_into(2)
+    type, name=country, display
+    value, name=country, VIETNAM
+choose_CANCEL_on_confirm_dialog_box(1)
+    css=button
+choose_OK_on_confirm_dialog_box(1)
+    css=button
+close_current_window(3)
+    
+    
+    
+go_backward_one_page(1)
+    
+go_forward_one_page(1)
+    
+go_inside_the_frame(6)
+    id=iframeResult
+    id=iframeResult
+    id=iframeResult
+    id=iframeResult
+    id=iframeResult
+    id=iframeResult
+highlight_element(1)
+    name=country
+input_on_prompt_dialog_box(1)
+    Baymax, css=button
+maximize_the_window(2)
+    
+    
+open_dialog_and_switch_to_it(1)
+    css=img[alt='Additional Options']
+open_link_in_new_window_and_switch_to_it(1)
+    link=TV
+scroll_up_or_down_in_screen_with_value_(0,1000)(1)
+    
+set_bound_for_element(1)
+    name=country
+switch_back_to_the_original_window(3)
+    
+    
+    
+the_home_page_is_visited(1)
+    
+the_page_is_opened_on_another_window(1)
+    https://cucumber.io/
+the_page_is_refreshed(1)
+    
+the_page_is_visited(9)
+    http://www.w3schools.com/js/tryit.asp?filename=tryjs_prompt
+    http://www.w3schools.com/js/tryit.asp?filename=tryjs_confirm
+    http://www.w3schools.com/js/tryit.asp?filename=tryjs_confirm
+    http://www.w3schools.com/js/tryit.asp?filename=tryjs_confirm
+    http://live.guru99.com/
+    http://live.guru99.com/
+    https://cucumber.io/
+    http://www.w3schools.com/tags/tryit.asp?filename=tryhtml_input_disabled
+    http://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_hidden
+window_dimension_is_changed_with_size_(300,500)(2)
+    
+    
+window_is_moved_to_location_with_coordinates_(100,200)(1)
+    
+window_is_moved_to_location_with_coordinates_(150,200)(1)
+    
+window_is_moved_to_location_with_coordinates_(200,300)(1)
+    
